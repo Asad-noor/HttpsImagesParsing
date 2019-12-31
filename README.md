@@ -23,8 +23,7 @@ For exmaple, https://randomuser.me/api/portraits/women/41.jpg
 https://randomuser.me/api/portraits/men/{PHOTO_ID}.jpg
     - if **female** then use this URL, 
 https://randomuser.me/api/portraits/women/{PHOTO_ID}.jpg
- - Feature wise you don't need to implement anything else other than what is specified. 
- - Don't worry if the app isn't 100% functional, write high level classes/methods so that we can understand you are on right track.
+
 
 #### Sample User JSON data,
 
