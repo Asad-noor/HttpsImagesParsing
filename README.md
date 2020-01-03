@@ -1,6 +1,6 @@
-About this app
+About this project
 -
-### Design an app where a list of users will be displayed in the app coming from a backend server using REST API
+### A list of users will be displayed in the app coming from a backend server using REST API
 
 #### Features: 
 
